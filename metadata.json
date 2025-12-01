@@ -1,0 +1,8 @@
+{
+  "name": "FinanzaPro AI",
+  "description": "Plataforma de gestión financiera inteligente para control de ingresos, gastos, inversiones y metas con asistente AI integrado.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
